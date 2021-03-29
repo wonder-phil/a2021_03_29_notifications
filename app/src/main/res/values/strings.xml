@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">a2021_03_29_notifications</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="textTitle">Attention!</string>
+    <string name="textContent">This is a basic notification</string>
+    <string name="channel_name">Channel N</string>
+    <string name="channel_description">Notification Channel N</string>
+
+</resources>
